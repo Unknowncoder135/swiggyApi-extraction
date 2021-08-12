@@ -1,0 +1,15 @@
+restaurant_name,restaurant_city,restaurant_locality,sub-name,restaurant_deliveryTime,restaurant_selString
+kesas-chembur-chembur-2,Mumbai,"Tilak Nagar, Chembur",Kesas,40,40 MINS
+burger-king-cst-road-scruz-bandra-east,Mumbai,"Central Plaza, Kalina",Burger King,32,32 MINS
+subway-mahim-dadar-mahim-dadar-2,Mumbai,"Central Plaza, Kalina",Subway,26,26 MINS
+meraki-scruz-bandra-east-scruz-bandra-east-2,Mumbai,Scruz Bandra East,Meraki,32,32 MINS
+kurla-juicy-hut-near-kalpana-cinema-kurla,Mumbai,Kurla,Kurla Juicy Hut,28,28 MINS
+momo-maniacs-chembur-chembur,Mumbai,"NG Acharya Marg, Opposite Seven Seas",Momo Maniacs,47,47 MINS
+wendys-andheri-kurka-road-marol-sakinaka,Mumbai,Andheri Kurka Road,Wendy's,51,51 MINS
+gianis-chembur,Mumbai,Kurla,Giani's,28,28 MINS
+khichdi-wala-chembur-chembur,Mumbai,"NG Acharya Marg, Opposite Seven Seas",Khichdi Wala,43,43 MINS
+charcoal-eats-manipada-road-scruz-bandra-east,Mumbai,MANIPADA ROAD,Charcoal Eats - Biryani & Beyond,33,33 MINS
+say-cheese-ghatkopar-vikhroli-ghatkopar-vikhroli,Mumbai,Ghatkopar Vikhroli,Say Cheese,43,43 MINS
+delhi-drum-bandra-kurla-complex-scruz-bandra-east,Mumbai,Bandra Kurla Complex,Delhi Drum,30,30 MINS
+oriental-combo-box-santacruz-east-scruz-bandra-east,Mumbai,Santacruz East,Oriental Combo box,30,30 MINS
+dumpling-khang-santacruz-east-scruz-bandra-east,Mumbai,Vakola,Dumpling Khang,50,50 MINS
